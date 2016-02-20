@@ -1,0 +1,6 @@
+File html nya itu form nya far
+nah terus controllernya di public function viewAction
+terus masalah ada di function submitviewAction yang getPost dari formnya
+insert ke database ada di function insertLkpn di laporanBumnModel
+entah karena syntak ato javascriptnya.
+js yang dipake di form itu yg fis.validation
